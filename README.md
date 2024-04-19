@@ -1,0 +1,1 @@
+This is a Generative AI chat app which uses Google Gemini API.
